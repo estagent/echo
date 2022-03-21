@@ -1,0 +1,17 @@
+{
+  "name": "@revgaming/echo",
+  "author": "estagent <estagent@gmail.com>",
+  "version": "1.0.1",
+  "homepage": "https://github.com/estagent/echo",
+  "description": "global events",
+  "main": "src/index.js",
+  "keywords": [
+    "javascript",
+    "events"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "laravel-echo": "^1.11.4",
+    "pusher-js": "^7.0.6"
+  }
+}
